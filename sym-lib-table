@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name kuro_libs)(type Legacy)(uri ${KICAD_USER_LIBRARY}/user-symbols/kuro_libs.lib)(options "")(descr ""))
+  (lib (name lcsc)(type Legacy)(uri ${KIPRJMOD}/lib/lcsc.lib)(options "")(descr ""))
+)

@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name lcsc)(type KiCad)(uri ${KIPRJMOD}/lib/lcsc.pretty)(options "")(descr ""))
+  (lib (name shamiko)(type KiCad)(uri ${KIPRJMOD}/lib/shamiko.pretty)(options "")(descr ""))
+  (lib (name dsp_amp_2to4)(type KiCad)(uri ${KIPRJMOD}/lib/dsp_amp_2to4.pretty)(options "")(descr ""))
+)
